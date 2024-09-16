@@ -4,4 +4,4 @@
 *.ipynb_checkpoints/
 *.pickle
 *__pycache__/
-
+.streamlit/
