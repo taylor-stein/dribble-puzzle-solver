@@ -1,0 +1,7 @@
+# Ignore file types relating to PyCharm, Jupyter Notebook
+*.DS_Store
+*.idea/
+*.ipynb_checkpoints/
+*.pickle
+*__pycache__/
+
